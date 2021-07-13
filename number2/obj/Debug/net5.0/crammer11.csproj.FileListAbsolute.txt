@@ -1,0 +1,16 @@
+C:\Users\Samuel\Desktop\Assignments\crammer11\bin\Debug\net5.0\crammer11.exe
+C:\Users\Samuel\Desktop\Assignments\crammer11\bin\Debug\net5.0\crammer11.deps.json
+C:\Users\Samuel\Desktop\Assignments\crammer11\bin\Debug\net5.0\crammer11.runtimeconfig.json
+C:\Users\Samuel\Desktop\Assignments\crammer11\bin\Debug\net5.0\crammer11.runtimeconfig.dev.json
+C:\Users\Samuel\Desktop\Assignments\crammer11\bin\Debug\net5.0\crammer11.dll
+C:\Users\Samuel\Desktop\Assignments\crammer11\bin\Debug\net5.0\ref\crammer11.dll
+C:\Users\Samuel\Desktop\Assignments\crammer11\bin\Debug\net5.0\crammer11.pdb
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.csproj.AssemblyReference.cache
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.AssemblyInfoInputs.cache
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.AssemblyInfo.cs
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.csproj.CoreCompileInputs.cache
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.dll
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\ref\crammer11.dll
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.pdb
+C:\Users\Samuel\Desktop\Assignments\crammer11\obj\Debug\net5.0\crammer11.genruntimeconfig.cache
